@@ -11,6 +11,8 @@ as a BCA 1st semester student.
 2. Addition of Two Numbers
 3. Even or odd
 4. largest of two numbers
+5. largest of three numbers
+6. 
 
 ##🎯 My Goal
 
