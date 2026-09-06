@@ -28,4 +28,4 @@ and uploading my practice programs on GitHub.
 
 ## 👩‍💻 Author
 
-Kratika
+Kratika Dixit
