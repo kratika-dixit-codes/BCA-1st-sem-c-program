@@ -17,9 +17,9 @@ as a BCA 1st semester student.
 8. table 
 9. swap two numbers
 10. leap year
-11 - Fibonacci Series
-12 - Palindrome Number
-13 - Prime Number
+11. Fibonacci Series
+12. Palindrome Number
+13. Prime Number
 
 ##🎯 My Goal
 
