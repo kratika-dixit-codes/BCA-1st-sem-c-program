@@ -13,6 +13,10 @@ as a BCA 1st semester student.
 4. largest of two numbers
 5. largest of three numbers
 6. vowel or consonants
+7. factorial
+8. table 
+9. swap two numbers
+10. leap year
 
 ##🎯 My Goal
 
