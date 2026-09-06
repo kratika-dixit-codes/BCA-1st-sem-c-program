@@ -21,7 +21,7 @@ as a BCA 1st semester student.
 12. Palindrome Number
 13. Prime Number
 
-##🎯 My Goal
+## 🎯 My Goal
 
 I'm learning C Programming from basic to advanced
 and uploading my practice programs on GitHub.
