@@ -20,6 +20,11 @@ as a BCA 1st semester student.
 11. Fibonacci Series
 12. Palindrome Number
 13. Prime Number
+14. Star Pattern
+15. Array Sum
+16. String Length
+17. Structure - Student Record
+18. File Handling
 
 ## 🎯 My Goal
 
